@@ -1,0 +1,121 @@
+.color_q3{
+    color: palevioletred;
+    font-size: large;    
+}
+.img1{
+    width: 300px;
+    height: 200px;
+}
+.button_q9c{
+    background-color: paleturquoise;
+}
+
+/* 11 Задание */ 
+.momo1{ 
+    width: 1440px;  
+    height: 156px;  
+    position: relative; 
+    background-color: rgb(213, 213, 213); 
+} 
+.momo2{ 
+    padding-left: 20px;  
+    padding-right: 20px;  
+    left: 70px;  
+    top: 10px;  
+    position: absolute;  
+    flex-direction: column;  
+    justify-content: flex-start;  
+    align-items: center;  
+    display: inline-flex 
+} 
+.momo3{
+    width: 190px;  
+    height: 100px 
+    font-size: larger;
+} 
+.momo4{ 
+    left: 820px;  
+    top: 53px;  
+    position: absolute;  
+    justify-content: flex-start;  
+    align-items: center;  
+    gap: 77px;  
+    display: inline-flex 
+} 
+.momo5{ 
+    justify-content: flex-start;  
+    align-items: center;  
+    gap: 94px; display: flex 
+} 
+.momo6{ 
+    padding: -30px;  
+    justify-content: flex-start;  
+    align-items: center;  
+    gap: 10px;  
+    display: flex 
+} 
+.momo7{ 
+    text-align: center;  
+    color: green;  
+    font-size: 16px;  
+    font-family: Montserrat;  
+    font-weight: 600;  
+    line-height: 28px;  
+    letter-spacing: 0.20px;  
+    word-wrap: break-word 
+} 
+.momo8{ 
+    padding: -10px;  
+    justify-content: flex-start;  
+    align-items: center;  
+    gap: 10px;  
+    display: flex 
+} 
+.momo9{ 
+    text-align: center;  
+    color: #252B42;  
+    font-size: 16px;  
+    font-family: Montserrat;  
+    font-weight: 600;  
+    line-height: 28px;  
+    letter-spacing: 0.20px;  
+    word-wrap: break-word 
+} 
+.momo0{ 
+    padding: 10px;  
+    justify-content: flex-start;  
+    align-items: center;  
+    gap: 10px;  
+    display: flex 
+} 
+.momo11{ 
+    text-align: center;  
+    color: #252B42;  
+    font-size: 16px;  
+    font-family: Montserrat;  
+    font-weight: 600;  
+    line-height: 28px;  
+    letter-spacing: 0.20px;  
+    word-wrap: break-word 
+} 
+.momo12{ 
+    padding: 10px;  
+    justify-content: flex-start;  
+    align-items: center;  
+    gap: 10px;  
+    display: flex 
+} 
+.momo13{ 
+    text-align: center;  
+    color: #252B42;  
+    font-size: 16px;  
+    font-family: Montserrat;  
+    font-weight: 600;  
+    line-height: 28px;  
+    letter-spacing: 0.20px;  
+    word-wrap: break-word 
+    
+} 
+.knopach{ 
+    display: flex; 
+}
